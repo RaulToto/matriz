@@ -1,6 +1,7 @@
 # matriz
+-----python------
 -suma de matrices 
 -resta de matrices
--multiplicacion
+-multiplicacion de matrices
 -warsall
 -transpuesta
